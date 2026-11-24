@@ -6,7 +6,7 @@
 
 # Login
 
-<img width="1917" height="1078" alt="Login" src="https://github.com/user-attachments/assets/a56e9693-e716-4778-bef9-3091a83740cf" />
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 113509" src="https://github.com/user-attachments/assets/c3645460-215f-43fe-8c2f-d43c16ed2c16" />
 
 # GET
 
